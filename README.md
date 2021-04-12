@@ -12,6 +12,10 @@
    - [README.md](README.md)
    - __codes__
      - __python__
+       - __fastApi__
+         - [fastApi\_multiple\_upload.py](codes/python/fastApi/fastApi_multiple_upload.py)
+       - __pathlib__
+         - [filter\_group\_with\_seek.py](codes/python/pathlib/filter_group_with_seek.py)
        - __subprocess__
          - [run\_like\_nohup.py](codes/python/subprocess/run_like_nohup.py)
 
