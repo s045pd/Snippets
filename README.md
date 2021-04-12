@@ -1,5 +1,4 @@
 <p align="center">
-<img src="medias/main.gif"/>
     <h1 align="center" > 💩 Snippets</h1>
     <p align="center"> code snippets , might be shit </p>
         <p align="center">
