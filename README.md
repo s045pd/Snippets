@@ -18,7 +18,5 @@
        - __subprocess__
          - [run\_like\_nohup.py](codes/python/subprocess/run_like_nohup.py)
        - __sys__
-         - __\_\_pycache\_\___
-           - [code.cpython\-39.pyc](codes/python/sys/__pycache__/code.cpython-39.pyc)
          - [remote\_module\_loder.py](codes/python/sys/remote_module_loder.py)
 
