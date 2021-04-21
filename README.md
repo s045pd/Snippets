@@ -5,6 +5,7 @@
     <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
     <a target="_blank" href="https://github.com/michalbe/md-file-tree" title="md-file-tree"><img src="https://img.shields.io/badge/power_by-md_file_tree-green.svg"></a>
 </p>
+
 - __Snippets__
    - [LICENSE](LICENSE)
    - [README.md](README.md)
